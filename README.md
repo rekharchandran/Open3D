@@ -1,5 +1,4 @@
 # Open3D
-Open3D
 
 Open3D is an open-source library that supports rapid development of software that deals with 3D data
 
